@@ -46,7 +46,7 @@ will eventually be named exercises instead of simple intent.
 
 ## fizzbuzz
 
-## fibbonacci numbers
+## fibonacci numbers
 
 ## file i/o
 
