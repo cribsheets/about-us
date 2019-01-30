@@ -46,9 +46,26 @@ will eventually be named exercises instead of simple intent.
 
 ## fizzbuzz
 
+this exercise is often used in interviews, as it confounds
+many new programmers. we've provided the problem in several
+languages---pick the one you like, and follow the bouncing
+ball.
+
+* c : [http://github.com/cribsheets/fizzbuzz-c](http://github.com/cribsheets/fizzbuzz-c)
+* python : [http://github.com/cribsheets/fizzbuzz-python](http://github.com/cribsheets/fizzbuzz-python)
+* ruby : [http://github.com/cribsheets/fizzbuzz-ruby](http://github.com/cribsheets/fizzbuzz-ruby)
+* javascript : [http://github.com/cribsheets/fizzbuzz-javascript](http://github.com/cribsheets/fizzbuzz-javascript)
+* es6 : [http://github.com/cribsheets/fizzbuzz-es6](http://github.com/cribsheets/fizzbuzz-es6)
+* elixir : [http://github.com/cribsheets/fizzbuzz-elixir](http://github.com/cribsheets/fizzbuzz-elixir)
+
 ## fibonacci numbers
 
+this exercise is well known. you can solve it two ways,
+using either a loop or using recursion.
+
 ## file i/o
+
+a basic exercise to prepend line numbers to an incoming file.
 
 ## console i/o
 
