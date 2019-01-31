@@ -63,6 +63,9 @@ ball.
 this exercise is well known. you can solve it two ways,
 using either a loop or using recursion.
 
+* python : [http://github.com/cribsheets/fibonacci-python](http://github.com/cribsheets/fibonacci-python)
+* clojure : [http://github.com/cribsheets/fibonacci-clojure](http://github.com/cribsheets/fibonacci-clojure)
+
 ## file i/o
 
 a basic exercise to prepend line numbers to an incoming file.
